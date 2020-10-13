@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(51, 48, 48);
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+#cont{
+    width: 600px;
+    height: 700px;
+    border: 2px solid black;
+    margin-top: 40px;
+    background-color: rgb(201, 174, 21);
+}
+#player {
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    margin-top: 40px;
+}
+#Timer {
+    font-weight: bold;
+    font-size: 40px;
+}
